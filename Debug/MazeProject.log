@@ -1,0 +1,20 @@
+﻿Build started 5/16/2013 5:25:14 PM.
+Project "\\psf\Home\Desktop\MazeProjectFinal\MazeProject - Copy\MazeProject.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cell.cpp main.cpp maze.cpp
+  maze.cpp
+\\psf\home\desktop\mazeprojectfinal\mazeproject - copy\maze.cpp(31): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  cell.cpp
+  Generating Code...
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\psf\Home\Desktop\MazeProjectFinal\MazeProject - Copy\Debug\MazeProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\psf\Home\Desktop\MazeProjectFinal\MazeProject - Copy\Debug\MazeProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\psf\Home\Desktop\MazeProjectFinal\MazeProject - Copy\Debug\MazeProject.lib" /MACHINE:X86 Debug\cell.obj
+  Debug\main.obj
+  Debug\maze.obj
+  LINK : \\psf\Home\Desktop\MazeProjectFinal\MazeProject - Copy\Debug\MazeProject.exe not found or not built by the last incremental link; performing full link
+  MazeProject.vcxproj -> \\psf\Home\Desktop\MazeProjectFinal\MazeProject - Copy\Debug\MazeProject.exe
+Done Building Project "\\psf\Home\Desktop\MazeProjectFinal\MazeProject - Copy\MazeProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.71
