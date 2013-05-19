@@ -8,7 +8,7 @@ We also added a hard mode, which implements the fog of war, and there is also a 
 License
 ---
 
-Copyright (c) 2012-2013, Geoff Shapiro & Jeremy Horan
+Copyright (c) 2013, Geoff Shapiro & Jeremy Horan
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
